@@ -1,7 +1,7 @@
 # LeetCode Solutions in Java
 
 This repository contains my solutions to various problems from LeetCode, solved in Java.
-Too see my Leetcode profile : https://leetcode.com/u/efeatas/
+My Leetcode profile : https://leetcode.com/u/efeatas/
 ## Problems
 
 | Problem Number | Title                                     | Solved Time     |
